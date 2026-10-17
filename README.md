@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 AI Smart OPD Intake Kiosk & Doctor Consultation Assistant
 ### Multilingual Voice-Guided Triage, Camera OCR Scanner & ABDM-Ready Clinical EMR
 
@@ -238,3 +239,6 @@ npm run start
 
 ## 👥 Authors & Credits
 Developed with ❤️ for Modern Healthcare & Digital India OPD Modernization.
+=======
+# Smartkiosk
+>>>>>>> origin/main
